@@ -22,7 +22,7 @@ Plataforma em que o professor escolhe disciplina, série e tema, e a IA entrega 
   - **migração de Streamlit para React + FastAPI** com o app em uso
   - **testes com pytest**, simulando o Supabase e o Gemini, rodando no CI
 
-*O código é privado, por ser um produto comercial.*
+*O código é privado, por ser um produto comercial. Demo, arquitetura e desafios técnicos estão na **[vitrine do Turmia](https://github.com/gabikeys/turmia)**.*
 
 ## 🛠️ Outros projetos
 
