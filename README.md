@@ -29,6 +29,7 @@ Plataforma em que o professor escolhe disciplina, série e tema, e a IA entrega 
 | Projeto | O que é | Stack |
 |---|---|---|
 | [loja-joaninha](https://github.com/gabikeys/loja-joaninha) | Site de pedidos estilo iFood para uma loja real de produtos de limpeza, com painel em que a dona cadastra os produtos pelo celular | Next.js · Supabase · Resend |
+| [Azevedo Lopes Advocacia](https://azevedolopesadvocacia.com.br) | Site institucional para um escritório de advocacia real, com domínio próprio, SEO (Open Graph, dados estruturados) e versão pra celular | HTML · CSS · JavaScript · Vercel |
 | [gymstats](https://github.com/gabikeys/gymstats) | Acompanhamento de treinos que diz se é hora de subir a carga (progressão dupla) | Next.js · TypeScript · Prisma · PostgreSQL |
 | [baixador-videos](https://github.com/gabikeys/baixador-videos) | Baixa vídeos do Instagram, X e YouTube | Python · Flask · yt-dlp · Docker |
 | [luanzzo-fitness](https://github.com/gabikeys/luanzzo-fitness) | Landing page de vendas para uma marca real, com conversão pelo WhatsApp | HTML · CSS · JavaScript |
