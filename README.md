@@ -1,8 +1,8 @@
 # Oi, eu sou o Gabi 👋
 
-Desenvolvedor fullstack (Python + React) e professor de Matemática, Física e Química em Salvador/BA.
+Desenvolvedor fullstack (Python + React) e professor de Matemática em Santo Amaro/BA.
 
-Crio e mantenho o **[Turmia](https://turmia.com.br)**, um SaaS com IA que gera material didático para professores e que está em uso numa escola real. Antes da sala de aula, estagiei em **Python na JusBrasil**, montando pipelines de dados jurídicos.
+Crio e mantenho o **[Turmia](https://turmia.com.br)**, um SaaS com IA que gera material didático para professores e que está em uso numa escola real. Também estagiei em **Python na JusBrasil**, com robôs de web scraping que coletam dados de tribunais.
 
 Gosto de resolver problemas que eu mesmo vivo: o Turmia nasceu das horas que eu passava preparando prova e apostila.
 
