@@ -6,7 +6,7 @@ Crio e mantenho o **[Turmia](https://turmia.com.br)**, um SaaS com IA que gera m
 
 Gosto de resolver problemas que eu mesmo vivo: o Turmia nasceu das horas que eu passava preparando prova e apostila.
 
-📫 **gabiteclas@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-556a03208/)
+📫 **gabiteclas@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-magalhaes-pereira/)
 
 ---
 
